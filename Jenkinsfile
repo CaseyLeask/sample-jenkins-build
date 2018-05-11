@@ -1,1 +1,1 @@
-sh 'exit 0'
+shell 'exit 0'
