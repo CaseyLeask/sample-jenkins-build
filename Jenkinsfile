@@ -1,1 +1,3 @@
-sh 'whoami'
+node('docker') {
+  sh 'whoami'
+}
