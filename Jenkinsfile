@@ -1,1 +1,1 @@
-shell 'whoami'
+sh 'whoami'
