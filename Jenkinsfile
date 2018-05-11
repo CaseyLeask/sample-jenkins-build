@@ -1,1 +1,1 @@
-shell 'exit 0'
+shell 'whoami'
