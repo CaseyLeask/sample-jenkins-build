@@ -1,3 +1,3 @@
-node('docker') {
+node('python2') {
   sh 'whoami'
 }
